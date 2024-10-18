@@ -1,4 +1,4 @@
-# AND Gate VHDL Project
+# AND Gate VHDL Design
 
 ## Overview
 This project implements a simple AND gate using VHDL. The design includes both the AND gate entity and a corresponding testbench to verify its functionality.
