@@ -1,4 +1,3 @@
-# VHDL
 # AND Gate VHDL Project
 
 ## Overview
