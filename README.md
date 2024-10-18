@@ -2,9 +2,9 @@
 This repository contains a collection of VHDL projects that demonstrate the design and simulation of fundamental digital logic circuits.<br> Each project includes the VHDL code for the design and the corresponding testbench for simulation.
 
 ## Projects Included
-AND Gate: Implements a basic AND gate using VHDL with a testbench for simulation.
-OR Gate: Implements an OR gate using VHDL with testbench validation.
-NOT Gate: Implements a NOT gate using VHDL along with its testbench.
+AND Gate: Implements a basic AND gate using VHDL with a testbench for simulation.<br>
+OR Gate: Implements an OR gate using VHDL with testbench validation.<br>
+NOT Gate: Implements a NOT gate using VHDL along with its testbench.<br>
 
 ## How to Use
 Each folder contains the design (.vhd) and testbench (_tb.vhd) and README files.
